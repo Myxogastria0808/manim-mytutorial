@@ -1,3 +1,9 @@
 # Nix
 /.direnv
 
+# Manim
+/media
+
+# Python
+__pycache__/
+
