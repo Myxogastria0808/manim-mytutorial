@@ -20,7 +20,7 @@
           packages =
             with pkgs;
             [
-              python314
+              python313
               texliveFull
             ]
             ++ pythonPackages;
